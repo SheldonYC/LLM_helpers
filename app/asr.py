@@ -12,7 +12,6 @@ mime_type_map = {
 }
 text = ''
 
-st.write(hf_token)
 def asr(audio_file):
   response = ''
   try :
