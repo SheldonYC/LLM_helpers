@@ -11,6 +11,7 @@ This is a streamlit web app that uses HuggingFace inference client to perform NL
 [HF_TOKEN]
 API_KEY = "insert_your_own_key"
 ```
+4. Or you can try to use this publicly hosted web app: [link](https://sheldondev-llmtools.streamlit.app/)
 
 ## Contributing
 
